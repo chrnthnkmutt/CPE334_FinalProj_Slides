@@ -156,7 +156,7 @@ Many potential investors face significant barriers when entering the stock marke
 
 ---
 
-## Level-2 DFD: 
+## Level-2 DFD: Form Collector of the Stock Ticker
 
 <style>
 img[alt~="center"] {
@@ -166,6 +166,45 @@ img[alt~="center"] {
 </style>
 
 ![w:700 center](image-4.png)
+
+---
+
+## Level-2 DFD: API Retriever from Yahoo Finance
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:700 center](image-5.png)
+
+---
+
+## Level-2 DFD: Predictor/Forecaster
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:700 center](image-6.png)
+
+---
+
+## Level-2 DFD: Graph Visualizer
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:700 center](image-7.png)
 
 ---
 
