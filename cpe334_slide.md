@@ -23,14 +23,14 @@ backgroundImage: url('./background.png')
 
 ## Members and Member's Task
 
-- 65070503409		Chayaphon		Chaisangkha
-- 65070503410		Charunthon		Limseelo
-- 65070503445		Chanawat		Limpanatewin
-- 65070503457		Paratthakon	    Suksukhon
-- 65070503466		Warapol		    Pratumta
-- 65070503469		Sawitt			Ngamwilaisiriwong
-- 67540460024		Enzo			Foulon
-- 67540460028		Tommy		    Gunawan
+- 65070503409		Chayaphon Chaisangkha
+- 65070503410		Charunthon Limseelo
+- 65070503445		Chanawat Limpanatewin
+- 65070503457		Paratthakon	Suksukhon
+- 65070503466		Warapol Pratumta
+- 65070503469		Sawitt Ngamwilaisiriwong
+- 67540460024		Enzo	Foulon
+- 67540460028		Tommy Gunawan
 
 ---
 
@@ -170,7 +170,7 @@ img[alt~="center"] {
 
 ---
 
-![bg left:45% 45%](image-3.png)
+![bg left:45% 45%](./images/image-3.png)
 
 ## Level-1 DFD
 
@@ -273,6 +273,9 @@ Sprint 4: Model Training for Prediction Features
 ---
 
 # **Some Aj. Chaiyong's Inspirations On the Project**
+- **HCI and UI Design**: We would try to make it clean and being responsive for many devices as it can be used to watch the stock analysis.
+- **System Cohesion**: For the class diagram, we are trying to make the system to be systematic and organizing to be more efficient on running the symple software with the many backend process working for the platform.
+- **Version Control**: For our project, we try to implement our code and save within GitHub Repository for many commits as possible for preventing the accident of some errors of the code in the project. At some point, we can recall or roll back the previous version of the code if we found the problem when somebody in the group accidentally push the errors in the repository.
 
 ---
 
