@@ -81,8 +81,7 @@ Many potential investors face significant barriers when entering the stock marke
 ## Main Features
  
 1. Stock Visualization Interactive Dashboard with Prediction Graph
-2. Insight information of each companies or each stocks 
-3. Mobile Web App Compatibility
+2. Mobile Web App Compatibility
 
 ---
 
@@ -90,10 +89,7 @@ Many potential investors face significant barriers when entering the stock marke
 
 1. Stock Quotes and Market Data
 2. Interactive Charts with Prediction
-3. Financial ratio calculation (P/E, P/B, etc.) (Optional)
-4. Valuation metric computation
-5. Company fundamental analysis (Optional)
-6. Financial Reports and Press Release (Optional)
+3. Valuation metric computation
 
 ---
 
@@ -125,15 +121,39 @@ Many potential investors face significant barriers when entering the stock marke
 ---
 
 ## Interviews
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:700 center](interview.png)
+
 - Conduct interviews with investors or stock interests to understand their needs for stock analysis, which we could get some insights for adapting for our group project for having better features
 
+---
+
 ## Observation
-- Spend time observing some investors or stock interests on using other software, focusing on how their stock analysis is being managed and how the value of the stock has been predicted to get the future result, along with other factors for investment.
+- Spend time observing some investors or stock interests on using other software (Google Finance, Yahoo Finance, Jitta), focusing on how their stock analysis is being managed and how the value of the stock has been predicted to get the future result, along with other factors for investment.
 
 ---
 
 ## Workshop Session
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:500 center](workshop.jpg)
+
 - Organize a workshop involving multiple stakeholders to collaboratively discuss the desired features and identify conflicting requirements of the stock analysis platform.
+
+---
 
 ## Prototyping
 - Create a prototype of the STONK stock analysis platform for gathering feedback on usability and feature preferences.
@@ -205,6 +225,32 @@ img[alt~="center"] {
 </style>
 
 ![w:700 center](image-7.png)
+
+---
+
+## Class Diagram
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:750 center](classdiagram.png)
+
+---
+
+## Sequence Diagram
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:1100 center](sequencediagram.png)
 
 ---
 
