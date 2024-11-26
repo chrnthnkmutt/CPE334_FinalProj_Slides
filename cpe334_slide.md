@@ -12,7 +12,7 @@ style: |
 backgroundImage: url('./background.png')
 ---
 
-![bg left:40% 80%](image.png)
+![bg left:40% 80%](./images/image.png)
 
 # **CPE334 Final Project Presentation**
 ## STONKS: Stock Analysis Platform Project By Group 1 Section 31
@@ -44,7 +44,7 @@ In today's rapidly evolving financial landscape, the need for accessible and com
 
 ---
 
-![bg left:45% 70%](image-1.png)
+![bg left:45% 70%](./images/image-1.png)
 
 ## What is STONKS? 📈
 
@@ -129,7 +129,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:700 center](interview.png)
+![w:700 center](./images/interview.png)
 
 - Conduct interviews with investors or stock interests to understand their needs for stock analysis, which we could get some insights for adapting for our group project for having better features
 
@@ -149,7 +149,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:500 center](workshop.jpg)
+![w:500 center](./images/workshop.jpg)
 
 - Organize a workshop involving multiple stakeholders to collaboratively discuss the desired features and identify conflicting requirements of the stock analysis platform.
 
@@ -166,7 +166,7 @@ img[alt~="center"] {
 
 ## Context-level DFD
 
-![height:7cm](image-2.png)
+![height:7cm](./images/image-2.png)
 
 ---
 
@@ -185,7 +185,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:700 center](image-4.png)
+![w:700 center](./images/image-4.png)
 
 ---
 
@@ -198,7 +198,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:700 center](image-5.png)
+![w:700 center](./images/image-5.png)
 
 ---
 
@@ -211,7 +211,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:700 center](image-6.png)
+![w:700 center](./images/image-6.png)
 
 ---
 
@@ -224,7 +224,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:700 center](image-7.png)
+![w:700 center](./images/image-7.png)
 
 ---
 
@@ -237,7 +237,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:750 center](classdiagram.png)
+![w:750 center](./images/classdiagram.png)
 
 ---
 
@@ -250,7 +250,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:1100 center](sequencediagram.png)
+![w:1100 center](./images/sequencediagram.png)
 
 ---
 
