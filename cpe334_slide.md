@@ -217,10 +217,10 @@ img[alt~="center"] {
 ---
 
 # **Working Process**
-Sprint 1:
-Sprint 2:
-Sprint 3:
-Sprint 4:
+Sprint 1: Homepage and UI Design
+Sprint 2: Graph Designing 
+Sprint 3: Backend management on API (Yahoo Finance)
+Sprint 4: Model Training for Prediction Features
 
 > Each sprint takes 2 weeks in process.
 
