@@ -283,10 +283,10 @@ Sprint 4: Model Training for Prediction Features
 # **Conclusions**
 
 - **Democratizing Finance**: Simplifies financial analytics for both novice and experienced investors.
-- **Innovative Features**: Interactive dashboards, ML-powered predictions, and detailed company insights.
+- **Innovative Features**: Interactive dashboards and ML-powered predictions
 - **User-Centric Development**: Iterative design using Scrum and feedback from interviews/workshops.
 - **Key Strengths**: Ease of use, comprehensive tools, and intuitive design.
-- **Improvement Areas**: UI theme refinements, enhanced homepage content, and deeper engagement.
+- **Improvement Areas**: UI theme refinements, enhanced homepage content, and deeper insight and engagement.
 - **Future Focus**: Design system optimization, advanced analytics, and content enhancements.
 
 ---
