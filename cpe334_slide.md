@@ -178,6 +178,12 @@ img[alt~="center"] {
 ---
 
 # **Working Process**
+Sprint 1:
+Sprint 2:
+Sprint 3:
+Sprint 4:
+
+> Each sprint takes 2 weeks in process.
 
 ---
 
